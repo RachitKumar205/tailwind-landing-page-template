@@ -39,8 +39,8 @@ function Newsletter() {
 
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
-                <h3 className="h3 text-white mb-2">Powering your business</h3>
-                <p className="text-gray-300 text-lg mb-6">Lorem ipsum dolor sit amet consectetur adipisicing elit nemo expedita voluptas culpa sapiente.</p>
+                <h3 className="h3 text-white mb-2">Sign Up for FitFrame</h3>
+                <p className="text-gray-300 text-lg mb-6">Sign Up to join the mailing list for FitFrame and get exclusive offers on FitFrame Premium</p>
 
                 {/* CTA form */}
                 <form className="w-full lg:w-auto">
@@ -49,8 +49,8 @@ function Newsletter() {
                     <a className="btn text-white bg-blue-600 hover:bg-blue-700 shadow" href="#0">Subscribe</a>
                   </div>
                   {/* Success message */}
-                  {/* <p className="text-sm text-gray-400 mt-3">Thanks for subscribing!</p> */}
-                  <p className="text-sm text-gray-400 mt-3">7 days free trial. No credit card required.</p>
+                  <p className="text-sm text-gray-400 mt-3">Thanks for subscribing!</p> 
+
                 </form>
               </div>
 
