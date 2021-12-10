@@ -14,7 +14,7 @@ function Footer() {
 
 
           {/* Copyrights note */}
-          <div className="text-sm text-gray-600 mr-4">FitFrame Technologies Pvt. Ltd, 2021 </div>
+          <div className="text-sm text-gray-600 mr-4">FitFrame Technologies, 2021</div>
 
         </div>
 
