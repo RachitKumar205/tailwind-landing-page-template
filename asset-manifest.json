@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tailwind-landing-page-template/static/css/main.d59354ea.chunk.css",
+    "main.js": "/tailwind-landing-page-template/static/js/main.d7e3105c.chunk.js",
+    "main.js.map": "/tailwind-landing-page-template/static/js/main.d7e3105c.chunk.js.map",
+    "runtime-main.js": "/tailwind-landing-page-template/static/js/runtime-main.b4b0adff.js",
+    "runtime-main.js.map": "/tailwind-landing-page-template/static/js/runtime-main.b4b0adff.js.map",
+    "static/js/2.87757bf1.chunk.js": "/tailwind-landing-page-template/static/js/2.87757bf1.chunk.js",
+    "static/js/2.87757bf1.chunk.js.map": "/tailwind-landing-page-template/static/js/2.87757bf1.chunk.js.map",
+    "index.html": "/tailwind-landing-page-template/index.html",
+    "static/css/main.d59354ea.chunk.css.map": "/tailwind-landing-page-template/static/css/main.d59354ea.chunk.css.map",
+    "static/js/2.87757bf1.chunk.js.LICENSE.txt": "/tailwind-landing-page-template/static/js/2.87757bf1.chunk.js.LICENSE.txt",
+    "static/media/carbon-1.png": "/tailwind-landing-page-template/static/media/carbon-1.e54a0fed.png",
+    "static/media/carbon-2.png": "/tailwind-landing-page-template/static/media/carbon-2.1b7e46eb.png",
+    "static/media/carbon.png": "/tailwind-landing-page-template/static/media/carbon.daa7cf4f.png",
+    "static/media/hero-image.png": "/tailwind-landing-page-template/static/media/hero-image.412004d6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4b0adff.js",
+    "static/js/2.87757bf1.chunk.js",
+    "static/css/main.d59354ea.chunk.css",
+    "static/js/main.d7e3105c.chunk.js"
+  ]
+}
