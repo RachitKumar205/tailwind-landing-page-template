@@ -15,6 +15,7 @@ import SignIn from './pages/SignIn';
 import SignUp from './pages/SignUp';
 import ResetPassword from './pages/ResetPassword';
 
+
 function App() {
 
   const location = useLocation();
@@ -50,6 +51,7 @@ function App() {
         <Route path="/reset-password">
           <ResetPassword />
         </Route>
+
       </Switch>
     </>
   );
